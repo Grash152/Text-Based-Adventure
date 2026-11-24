@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\maelp\Downloads\20260406220842_Remise_TP3_jeu_textuel_Mael_Paquette\TD3 Remise Mael Paquette\TD3 Remise Mael Paquette\main.cpp(42,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TD3 Remise Mael Paquette.vcxproj -> C:\Users\maelp\Downloads\20260406220842_Remise_TP3_jeu_textuel_Mael_Paquette\TD3 Remise Mael Paquette\x64\Debug\TD3 Remise Mael Paquette.exe
